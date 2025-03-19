@@ -31,7 +31,7 @@ A passionate student who loves technology, coding, and building projects.
 
 ---
 
-### ✍️ Random Dev Quote
+### ✍️ Favorite Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
