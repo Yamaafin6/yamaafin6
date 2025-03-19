@@ -32,8 +32,11 @@ A passionate student who loves technology, coding, and building projects.
 ---
 
 ### ✍️ Favorite Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+```diff
++ "Maka Nikmat Mana Yang Engkau Dustakan" - QS. Ar-Rahman 13
+```
 
+---
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Yamaafin6&color=blue&style=flat)
